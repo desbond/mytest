@@ -7,7 +7,7 @@ public class GenericTest {
 		 MyGen<Integer,Integer,Integer> gen2  = new MyGen<Integer,Integer,Integer>();
 		 String str = "str";
 		 Integer integetr = new Integer(1);
-		 
+		 //sddsdsds
 		 gen.addT(str);
 		 gen2.addT(integetr);
 		 
